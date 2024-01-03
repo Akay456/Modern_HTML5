@@ -1,0 +1,8 @@
+3.Define accessibilty in the context of web development.Discuss why its essential to create accessible websites and how it benefits different user groups?
+
+Ans- accessiblity is the practice of making your websites accessible to as many people as possible. we mainly think about disable people while focussing on accessiblity but it also include the mobile users and also the one with poor internet connection.
+The main reasons for creating accessible websites is to treat everyone the same, and giving them equal opportunities, no matter what their ability or circumstances.
+Accessibility can benefit all types of users:
+The Visually Impaired person - the use of magnifier softwares where person can magnify the text,audio and video content according to their ease.By exclusing the common color blidness colours to be used in the content or buttons so that even those people are accessible to the content.
+ the use of text aloud in the document readers are of the best example of accessiblity.
+ The Hearing impairments-To provide access, textual alternatives must be provided. Videos should be manually captioned, and transcripts should be provided for audio content.

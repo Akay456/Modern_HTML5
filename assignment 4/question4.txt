@@ -1,0 +1,5 @@
+4.List any 3 ways which help us in improving the accessiblity of HTML ?
+ans- Three ways of improving accessibilty in HTML are -
+i.Semantic HTML, which improves accessibility, also improves SEO, making your site more findable.
+ii.Caring about accessibility demonstrates good ethics and morals, which improves your public image and also choose colours very carefully in reponse to colour blind people .
+iii. Add ‘Alt Text' to Your Site’s Images

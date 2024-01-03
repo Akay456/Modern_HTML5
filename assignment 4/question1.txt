@@ -1,0 +1,8 @@
+1. List out the features of HTML5?
+Ans- These are the features of the HTML5
+i. Semantic Markup: The new version of HTML is designed to be more semantic, meaning it provides better ways to describe different parts of the structure tag present in the code.
+   few of the example of sematic tags are - div, main,header and footer.
+ii. Embedding the video and audio tag have made HTML effecienct and capable to display and play the video and  audio files.
+iii.The addition of svg (scalable graphic vector) tag.The vector graphics are scalable,easy to create and edit,It supports interactivity and animation. Its compact size makes its loading and transferring graphics much faster.
+iv.The use of figure and figcaption tag- to display figure and add a caption to it.
+v. The placeholder and Email attribute are used to provide hint for the type of input asked and validate the format of email id bu automatically checking the format is correct or not respectively.

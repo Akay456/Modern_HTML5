@@ -1,0 +1,8 @@
+2.what are HTML Entities? List out 5 commonly used HTML entities.
+Ans-Entities are special reserved characters in the html.The usually start from "&" and ends with";" they are also use din places where the normal characters are difficult to type in standard keyboard. 
+The five common Entities are -
+< - &lt;
+> - &gt;
+& - &amp;
+" - &quot;
+© - &copy;
